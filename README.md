@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kushalnavghare
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently a Graduate Student of Data Science
-- 💞️ I’m looking to collaborate on data science projects involving natural language processing, geospatial analysis
+- 💞️ I’m looking to collaborate on data science projects involving natural language processing, geospatial analysis and open to challenges. :) 
 
 
 <!---
